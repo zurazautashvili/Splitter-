@@ -1,3 +1,9 @@
 body {
+  font-size: 62.5%;
   background: rgba(197, 228, 231, 1);
+}
+
+.box {
+  background: rgba(255, 255, 255, 1);
+  border-radius: 25px;
 }
